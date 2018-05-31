@@ -1,0 +1,1 @@
+This example shows the use of the height and width properties alongside images of varying dimensions:
